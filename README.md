@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Product preview card component
 
-## Getting Started
+Repositorio con el código solución al [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Este es mi primer proyecto utilizando **TailwindCSS** de una serie de proyectos utilizando dicha herramienta.
 
-First, run the development server:
+## The challenge
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+El desafío consiste en realizar lo siguiente:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Users should be able to:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Los siguientes diseños son entregados de modo tal de replicar:
 
-## Learn More
+### 1. Mobile Design
 
-To learn more about Next.js, take a look at the following resources:
+![Mobile Design Imagen](./screenshots/mobile-design.jpg)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 2.Desktop Design
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Desktop Design Imagen](./screenshots/desktop-design.webp)
 
-## Deploy on Vercel
+### 3. Active States Design
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Active States Design Image](./screenshots/active-states-design.webp)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Screenshots de mi Proyecto
+
+### 1. Mobile Size
+
+![Mobile Size Image](./screenshots/mobile-size.webp)
+
+### 2.Desktop Size
+
+![Desktop Size Image](./screenshots/desktop-size.webp)
+
+### 3. Active States
+
+![Active States Image](./screenshots/active-state.webp)
